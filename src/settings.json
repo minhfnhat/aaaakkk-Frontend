@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights.",
+        "title": "Revolutionize Your Workflow"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workflow",
+  "subtitle": "Harness cutting-edge solutions tailored for your industry. Redefine efficiency and productivity with our innovative tools, designed to elevate your performance to new heights."
+}
